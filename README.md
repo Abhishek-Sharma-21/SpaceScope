@@ -4,7 +4,7 @@
 
 ## 🚀 Demo
 
-Try the live app here: [https://spacescope.vercel.app/](https://space-scope-henna.vercel.app/)
+Try the live app here: [https://space-scope-henna.vercel.app/](https://space-scope-henna.vercel.app/)
 
 
 
