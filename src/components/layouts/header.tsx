@@ -13,8 +13,8 @@ export default function Header() {
                 {/* Logo */}
                 <div className="text-3xl font-extrabold tracking-widest">
                     <Link href={"/"}>
-                    
-                    SPACESCOPE
+
+                        SPACESCOPE
                     </Link>
                 </div>
 
@@ -24,13 +24,13 @@ export default function Header() {
                         Picture of the Day
                     </Link>
                     <Link href="/mars-rover" className="hover:text-indigo-400 transition-colors duration-200">
-                        Mars Rover Photos
+                        Natural Disaster Events
                     </Link>
                     <Link href="/asteroids" className="hover:text-indigo-400 transition-colors duration-200">
                         Asteroid Tracker
                     </Link>
                     <Link href="/earth" className="hover:text-indigo-400 transition-colors duration-200">
-                        Earth Imagery
+                        Space Weather Notifications
                     </Link>
                     <Link href="/missions" className="hover:text-indigo-400 transition-colors duration-200">
                         Missions
