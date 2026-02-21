@@ -1,14 +1,12 @@
 # SPACESCOPE
 
-<<<<<<< HEAD
 
-=======
 
 ## 🚀 Demo
 
 Try the live app here: [https://spacescope.vercel.app/](https://spacescope.vercel.app/)
 
-> > > > > > > e5e9102b7036f372c7d5f3bf63bdf1d04cede06d
+
 
 SPACESCOPE is a visually immersive web application that brings the wonders of space exploration to your fingertips. This project was developed with the assistance of **Cursor AI** to streamline and enhance the development process.
 
